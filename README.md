@@ -16,7 +16,7 @@ Chrome extensions
 
 Gif Drawer: save GIFs and post them anywhere. Removed from the Chrome Web Store in August 2026, reinstated after a successful policy appeal. [Chrome Web Store](https://chromewebstore.google.com/detail/dfagnoempkflndhjkbfapgplipffpjmc?utm_source=item-share-cb)
 Holy Ghost Mode: Jesus peeks into your incognito tabs. [Chrome Web Store](https://chromewebstore.google.com/detail/holy-ghost-mode/kikenhpliepmakhogknbhgcmmmbnaijh?authuser=0)
-Dead Scroll: A doom-scroll intervention that gives you a reason to stop — and a little game to help you breathe. [[Chrome Web Store]](https://chromewebstore.google.com/detail/gkgngokncjclbdhbigggmodknnoihlma?utm_source=item-share-cb)
+Dead Scroll: A doom-scroll intervention that gives you a reason to stop — and a little game to help you breathe. [Chrome Web Store](https://chromewebstore.google.com/detail/gkgngokncjclbdhbigggmodknnoihlma?utm_source=item-share-cb)
 
 Claude usage widget · in progress. A desktop widget for Windows that shows Claude usage by reading only local log files: no login, no scraping. Ashley provides the commentary through a local model.
 
