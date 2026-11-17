@@ -17,7 +17,7 @@ A personal AI agent that runs fully offline on one consumer PC: persona, long-te
 
 A two-player online horror game, built in three weeks for a Handshake × OpenAI challenge. ChatGPT was the only coder. Claude chaired the design with read-only access to the build, and Claude Code audited it before submission. Submitted three days early.
 
-[Night Shift](https://night-shift-egograves.cobyfragoso.chatgpt.site/)
+[Link - Night Shift](https://night-shift-egograves.cobyfragoso.chatgpt.site/)
 
 
 **Chrome extensions**
