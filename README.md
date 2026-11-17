@@ -9,6 +9,7 @@ Most of my work runs on a loop I call the design chair. A Claude chat plans the 
 ## What I'm building
 
 **Ashley** · *private*
+
 A personal AI agent that runs fully offline on one consumer PC: persona, long-term memory, a local document shelf, a fact-checker, and consent prompts for anything that would leave the machine. In November 2026 I ran a pre-registered, blind-graded evaluation of eight local models for her. It picked her new defaults and found three bugs in Ashley herself. Write-up available on request.
 
 **Night Shift**
