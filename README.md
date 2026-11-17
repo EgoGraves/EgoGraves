@@ -35,13 +35,16 @@ A doom-scroll intervention that gives you a reason to stop, and a little game to
 
   
 **Claude usage widget** · *in progress*
+
 A desktop widget for Windows that shows Claude usage by reading only local log files: no login, no scraping. Ashley provides the commentary through a local model.
 
 
 **[pacific-map](https://github.com/EgoGraves/pacific-map)**
+
 An interactive campus map, built in an afternoon for a speech tournament.
 
-**Also in development:** two games, both private for now.
+**Also in development:**
+Two games, both private for now.
 
 ---
 
