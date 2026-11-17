@@ -13,8 +13,8 @@ A personal AI agent that runs fully offline on one consumer PC: persona, long-te
 
 **Night Shift**
 A two-player online horror game, built in three weeks for a Handshake × OpenAI challenge. ChatGPT was the only coder. Claude chaired the design with read-only access to the build, and Claude Code audited it before submission. Submitted three days early.
-<!-- [https://night-shift-egograves.cobyfragoso.chatgpt.site/] -->
-
+[<!-- [https://night-shift-egograves.cobyfragoso.chatgpt.site/] -->
+](https://night-shift-egograves.cobyfragoso.chatgpt.site/)
 **Chrome extensions**
 - **Gif Drawer**: save GIFs and post them anywhere. Removed from the Chrome Web Store in August 2026, reinstated after a successful policy appeal. [Chrome Web Store](https://chromewebstore.google.com/detail/gif-drawer/dfagnoempkflndhjkbfapgplipffpjmc)
 - **Holy Ghost Mode**: Jesus peeks into your incognito tabs. [Chrome Web Store](https://chromewebstore.google.com/detail/kikenhpliepmakhogknbhgcmmmbnaijh?utm_source=item-share-cb)
